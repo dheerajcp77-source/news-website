@@ -1,0 +1,8 @@
+{
+  "name": "Coffeenadu News",
+  "description": "Local Koppa Taluk news publishing portal with English navigation and fast-loading Kannada news updates across categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
